@@ -16,6 +16,7 @@ Based in Maadi, Cairo, Egypt, I specialize in building cross-platform mobile exp
 
 ### 🚀 Featured Projects
 
+- **[ToDo]((https://github.com/Ziad-Gabriel/do-notes.git))** - A Dart-based application for make todo list to your task.
 - **[Money-Tracker](https://github.com/Ziad-Gabriel/Money-Tracker)** - A Dart-based application for tracking daily transactions and financial goals.
 - **[Library Management System](https://github.com/Abdelhamid-El-rashidy/Library_System.git)** - A web-based front-end project featuring structured data management for books.
 
