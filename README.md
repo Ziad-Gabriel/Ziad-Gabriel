@@ -24,8 +24,8 @@ Based in Maadi, Cairo, Egypt, I specialize in building cross-platform mobile exp
 
 ### 📊 My GitHub Stats
 
-![Ziad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ziad-Gabriel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Gabriel&layout=compact&theme=tokyonight)
+![Ziad's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ziad-gabriel&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ziad-gabriel&layout=compact&theme=tokyonight)
 
 ---
 
