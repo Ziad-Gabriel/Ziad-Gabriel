@@ -7,7 +7,7 @@ Based in Maadi, Cairo, Egypt, I specialize in building cross-platform mobile exp
 
 ### 🛠️ My Tech Stack
 
-- **Languages:** Dart, C++, HTML
+- **Languages:** Dart, C++, Java
 - **Frameworks:** Flutter
 - **Tools:** Git, GitHub, Android Studio, VS Code
 - **Operating Systems:** Windows (Lenovo Dev Environment)
